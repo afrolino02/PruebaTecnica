@@ -102,7 +102,9 @@ header.header ul li {
   font-family: var(--fuente_principal);
   color: var(--blanco-fantasma);
 }
-
+header.header ul li a {
+  color: var(--blanco);
+}
 header.header ul li a:visited {
   color: var(--blanco);
 }
